@@ -5,6 +5,10 @@ body {
   text-align: center;
 }
 
+#hidden {
+  display: none;
+}
+
 #msg {
   color: #808080;
   font-weight: lighter;
